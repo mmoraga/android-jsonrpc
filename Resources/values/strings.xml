@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android_jsonrpc</string>
+    <string name="app_text">Hello, Android!</string>
+</resources>
